@@ -1,0 +1,222 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+  
+
+        /* Home Section */
+
+
+.h-section{
+    background: rgba(18, 77, 144, 1);
+}
+                                        /* Text */
+.btn-home-text{
+    width: 190px;
+    height: 40px;
+    font-weight: 500;
+    background: linear-gradient(90deg, #D90726 69.57%, #E7482A 99.76%, #FEB932 100%, #DD1D27 100%, #E23129 100%);
+    border-radius: 10px;
+}
+
+.btn-home-text img{
+    width: 30px;
+}
+                                    /* Handy-man */
+.h-img img{
+    margin-top: 21px;
+    margin-left: 40%;
+}
+                                    /* Appointment */
+
+.appointment{
+    width: 220px;
+    height: 366px;
+    background: rgba(254, 185, 50, 1);
+}
+
+.appointment h4{
+    font-size: large;
+}
+
+.user-input, .address-input, .phone-input{
+    width: 190px;
+    border: none;
+    background: rgb(210, 149, 28);
+    color: gray;
+    
+}
+
+.date-input, .time-input{
+    width: 93px;
+    border: none;
+    background: rgb(210, 149, 28);
+    color: gray;
+    margin-left: 15px;
+   
+}
+
+.date-input, .time-input, input{
+    font-size: 12px;
+   
+}
+
+.form-row textarea{
+    width: 190px;
+    border: none;
+    background: rgb(210, 149, 28);
+    color: gray;
+    /* padding-left: 5px; */
+}
+
+.btn-appointment{
+    width: 190px;
+    font-size: small;
+    font-weight: 500;
+}
+
+
+
+
+        /* About section */
+
+                                /* Text */
+.a-title{
+    color: rgba(5, 29, 62, 1);
+}
+
+                                /* Images */
+.a-img1{
+    
+    width: 220px;
+    margin-top: 12%;
+}
+
+
+.a-img2{
+    width: 175px;
+}
+
+.a-img3{
+    width: 230px; 
+    margin-top: 74%;
+    margin-left: -48%;
+}
+
+
+
+
+
+        /* Experience Section */
+
+.E-sec{
+    background: rgba(239, 242, 245, 1);
+}
+
+
+.e-title{
+    color: rgba(5, 29, 62, 1);
+}
+
+        /* Services Section */
+
+
+.s-sec{
+    background: rgba(7, 39, 93, 1);
+}
+
+
+.s-img img{
+    margin-left: 11px;
+}
+
+
+        /* Complete project Section */
+
+
+.project-sec{
+    background: linear-gradient(to bottom,rgba(11, 25, 48, 1) 75%,white 25%);  
+}
+
+
+.btn-project{
+    width: 180px;
+    height: 40px;
+    font-weight: 500;
+    background: linear-gradient(90deg, #D90726 69.57%, #E7482A 99.76%, #FEB932 100%, #DD1D27 100%, #E23129 100%);
+    border-radius: 10px;
+}
+
+.btn-project img{
+    width: 20px;
+}
+
+
+.card{
+    margin-bottom: 20%;
+}
+
+
+.p1-title{
+    /* width: 550px; */
+    color: rgba(5, 29, 62, 1);
+    
+}
+
+
+
+.p-img4{
+    width: 40px;
+    height: 70px;
+}
+
+.p-sub-title{
+    width: 180px;
+    color: rgba(5, 29, 62, 1);
+}
+
+.p-sub-para{
+    width: 200px;
+}
+
+
+        /* testimonial-sec */
+
+.testimonial-sec{
+    background: rgba(11, 25, 48, 1);
+}
+
+
+        /* contact-section */
+
+.c-img1{
+    position: relative;
+}
+
+.name-3{
+   position: absolute;
+   top: 90%;
+}
+
+.name-3 h3{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.name-3 h6{
+    font-size: 10px;
+}
+
+.footer-sec{
+    background: rgba(11, 25, 48, 1);
+}
+
+
+
+
+
+
+
